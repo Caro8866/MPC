@@ -92,5 +92,221 @@
       "question": "Hvad er offentlig værdiskabelse?",
       "answer": "At skabe størst mulig værdi for borgerne gennem effektiv forvaltning af tildelte ressourcer (offentlig sektor)."
     }
+  ],
+  "Strategi": [
+    {
+      "question": "Hvad er strategi?",
+      "answer": "Strategi er ledelsens rettesnor - en plan for, hvordan organisationen skal nå sine overordnede mål. Den beskriver et mønster af handlinger, der skal sikre opfyldelse af mission og vision."
+    },
+    {
+      "question": "Hvad er formålet med strategiarbejde?",
+      "answer": "At sikre organisationens overlevelse og udvikling. Fokus ligger på konkurrenceevne, optimal udnyttelse af ressourcer og styrkelse af interne strukturer - både på kort og lang sigt."
+    },
+    {
+      "question": "Hvilke tre niveauer findes i en organisation?",
+      "answer": "1. Strategisk niveau\n2. Taktisk niveau\n3. Operationelt niveau"
+    },
+    {
+      "question": "Hvad er forskellen mellem strategi, taktik og operation?",
+      "answer": "Strategi: Langsigtet plan for at nå organisationens mål.\nTaktik: Kortere planer og prioriteringer, der omsætter strategien.\nOperation: De daglige handlinger og processer, der udfører taktikken."
+    },
+    {
+      "question": "Hvilke fire spørgsmål stilles i den strategiske proces?",
+      "answer": "1. Hvem er vi?\n2. Hvad vil vi?\n3. Hvad kan vi?\n4. Hvad gør vi?"
+    },
+    {
+      "question": "Hvad er trinene i den strategiske proces?",
+      "answer": "1. Grundlæggende forudsætning: Identitet, mission, værdier (hvem er vi?)\n2. Vision og målsætning: Fremtidige mål (hvad vil vi?)\n3. Analyse: Interne styrker/svagheder og eksterne muligheder/trusler (hvad kan vi?)\n4. Intenderet strategi: Den planlagte strategi\n5. Konceptudvikling og udførelse: Forretningsmodeller, branding, projekt- og forandringsledelse\n6. Realiseret strategi: Den strategi, der faktisk bliver gennemført (hvad gør vi?)"
+    },
+    {
+      "question": "Hvad er forskellen mellem lineær og cirkulær strategiproces?",
+      "answer": "Lineær proces: En planlagt, fremadskridende proces uden tilbageslag - fokus på planlægning og implementering.\nCirkulær proces: En dynamisk proces med løbende evaluering og genforhandling af beslutninger."
+    },
+    {
+      "question": "Hvad er en mission?",
+      "answer": "Missionen er en kort erklæring, typisk en eller to sætninger, der definerer, hvorfor virksomheden eksisterer - især hvad den tilbyder til sine kunder."
+    },
+    {
+      "question": "Hvad er værdier?",
+      "answer": "Værdier (kerneværdier) udtrykker organisationens holdninger, adfærd og etik."
+    },
+    {
+      "question": "Hvorfor er værdier vigtige?",
+      "answer": "De angiver ønsket kultur og uønsket adfærd (fx forbud mod bestikkelse, chikane og interessekonflikter)."
+    },
+    {
+      "question": "Hvad er en vision?",
+      "answer": "En vision er en ledestjerne, som alle i organisationen kan stræbe efter. Den beskriver den ønskede fremtid - et fælles mål, organisationen stræber efter (typisk 3-10 år frem)."
+    },
+    {
+      "question": "Hvad er kendetegn ved en god vision?",
+      "answer": "Tænkende (maler et billede af fremtiden)\nØnskelig (motiverer interessenter)\nRealistisk (kan opnås)\nFokuseret (giver retning)\nFleksibel (tillader initiativ)\nLet at kommunikere (kan forklares hurtigt)"
+    },
+    {
+      "question": "Hvad er en målsætning?",
+      "answer": "En målsætning omsætter visionen til konkrete, målbare resultater eller delmål. Den bruges som styringsværktøj til at følge fremdriften mod visionen."
+    },
+    {
+      "question": "Hvad er en intern analyse?",
+      "answer": "En intern analyse undersøger organisationens interne forhold - især styrker og svagheder. Formålet er at forstå, hvordan ressourcer, kompetencer, struktur og kultur påvirker organisationens konkurrenceevne. → Fokus: Hvad er vi gode til? Hvad skal forbedres?"
+    },
+    {
+      "question": "Hvad er en ekstern analyse?",
+      "answer": "En ekstern analyse ser på organisationens omverden - altså muligheder og trusler i markedet. Den omfatter fx kunder, konkurrenter, teknologi, lovgivning og samfundstendenser. → Formålet er at forstå de eksterne forhold, der kan påvirke strategien."
+    },
+    {
+      "question": "Hvad er formålet med at sammenfatte intern og ekstern analyse?",
+      "answer": "Sammenfatningen giver et strategisk overblik:\n1. Hvordan vores styrker kan bruges til at udnytte muligheder\n2. Hvordan vi kan beskytte os mod trusler og forbedre svagheder\nDette bruges ofte i en SWOT-analyse."
+    },
+    {
+      "question": "Hvad er en interessentanalyse?",
+      "answer": "En interessentanalyse kortlægger personer og grupper, som har interesse i organisationen (fx kunder, ansatte, leverandører, ejere, lokalsamfund). Formålet er at forstå deres krav, forventninger og magt, så man kan prioritere og tilpasse strategien til dem."
+    },
+    {
+      "question": "Hvad er en intenderet strategi?",
+      "answer": "Den intenderede strategi er den planlagte strategi, som ledelsen har designet på baggrund af analyser og mål. Den udtrykker organisationens hensigt - altså hvordan man ønsker at nå sine mål. Alle strategier ændrer sig undervejs."
+    },
+    {
+      "question": "Hvad er en realiseret strategi?",
+      "answer": "Den realiserede strategi er den strategi, der faktisk bliver gennemført i praksis. Den består ofte af en kombination af planlagte beslutninger og nye tiltag, som opstår undervejs."
+    },
+    {
+      "question": "Hvad betyder strategistatements?",
+      "answer": "Et strategistatement samler virksomhedens mission, vision og værdier i én kort formel sætning eller tekst. Formålet er at kommunikere retningen og formålet klart til både medarbejdere og interessenter."
+    },
+    {
+      "question": "Hvordan hænger mission, vision og værdier sammen med strategi?",
+      "answer": "Mission = Hvorfor vi eksisterer (formål)\nVision = Hvad vi vil opnå (målbillede)\nVærdier = Hvordan vi opfører os (adfærd og etik)\nStrategi = Hvordan vi kommer derhen (handlingsplan)"
+    },
+    {
+      "question": "Hvad er formålet med strategisk analyse?",
+      "answer": "At skabe et informeret beslutningsgrundlag for strategiudvikling ved at forstå både interne ressourcer og eksterne markedsforhold. → Hjælper med at vælge den mest realistiske og bæredygtige strategi."
+    },
+    {
+      "question": "Hvad betyder emergent strategi?",
+      "answer": "Emergent strategi er den strategi, der opstår spontant gennem erfaringer og handlinger i organisationen - ikke planlagt på forhånd. Den viser, hvordan medarbejdere og ledere tilpasser sig ændrede omgivelser i praksis. Kendetegnet er åbenhed over for nye påvirkninger udefra, som kan justere den intenderede strategi."
+    },
+    {
+      "question": "Hvad er forskellen mellem intenderet og emergent strategi?",
+      "answer": "Intenderet strategi: Planlagt, formel og udarbejdet på forhånd.\nEmergent strategi: Opstår løbende som reaktion på virkeligheden.\n→ Ofte bliver den endelige realiserede strategi en kombination af begge."
+    },
+    {
+      "question": "Hvordan hænger strategi og forandringsledelse sammen?",
+      "answer": "For at gennemføre en strategi skal organisationen ofte ændre strukturer, processer eller kultur. Forandringsledelse hjælper med at skabe opbakning, håndtere modstand og sikre implementering af nye strategier."
+    },
+    {
+      "question": "Hvad er strategisk evaluering?",
+      "answer": "Strategisk evaluering handler om at vurdere, om strategien virker som planlagt. Det indebærer løbende måling af resultater og justering af retningen efter behov."
+    }
+  ],
+  "Forandringsledelse": [
+    {
+      "question": "Hvad er sammenhængen mellem strategi og forandring?",
+      "answer": "Strategiske intentioner indebærer ofte forandring - gamle vaner og processer skal erstattes af nye. Forandring er en konstant faktor i organisationer, men mange ønsker forandring uden selv at ville forandre sig."
+    },
+    {
+      "question": "Hvad betyder innovation i forbindelse med forandring?",
+      "answer": "Innovation er nyskabelse, der skaber værdi. Innovation er tæt forbundet med strategisk forandring og kan ændre produkter, processer og kulturer."
+    },
+    {
+      "question": "Hvilke typer af innovation findes der?",
+      "answer": "1. Inkrementel - små, løbende forbedringer \n2. Radikal - store ændringer, nye systemer eller teknologier \n3. Brugerdrevet - udvikling baseret på input fra brugere \n4. Disruptiv - forstyrrende innovation, der ændrer markedet og kulturen"
+    },
+    {
+      "question": "Hvorfor forandrer organisationer sig?",
+      "answer": "Pga. eksterne kræfter som teknologisk udvikling, globalisering, international konkurrence, mætning af markeder og politiske ændringer. \n→ Skaber både risici og nye muligheder."
+    },
+    {
+      "question": "Hvad påvirker reaktionsformer ved forandringer?",
+      "answer": "Reaktioner afhænger af organisationens kultur, værdier og normer. \nMedarbejdere kan reagere med engagement, accept, ligegyldighed, passiv eller aktiv modstand."
+    },
+    {
+      "question": "Hvad er eksempler på positiv reaktion ved forandring?",
+      "answer": "Engagement, støtte, motivation, aktiv deltagelse, samarbejde med ledelsen og lyst til at bidrage med idéer."
+    },
+    {
+      "question": "Hvad er eksempler på negativ reaktion ved forandring?",
+      "answer": "Ligegyldighed, resignation, passiv modstand, lavere produktivitet, bevidste fejl, lavere kvalitet og protester."
+    },
+    {
+      "question": "Hvilke tre typer modstand mod forandring findes der?",
+      "answer": "1. Forståelsesmæssig modstand - manglende forståelse for hvorfor forandring er nødvendig. \n2. Følelsesmæssig modstand - frygt for at miste noget eller for ikke at slå til. \n3. Personrettet modstand - manglende tillid til ledelsen eller forandringsagenten."
+    },
+    {
+      "question": "Hvad er almindelige årsager til modstand mod forandring?",
+      "answer": "Manglende tillid, tro på at forandringen er unødvendig, tro på at den ikke nytter, risiko for personlige tab, høje omkostninger, frygt for at fejle, frygt for at miste status, trussel mod værdier eller kontroltab."
+    },
+    {
+      "question": "Hvad betyder NIH-syndromet?",
+      "answer": "\"Not Invented Here\" - når medarbejdere afviser ideer udefra, fordi de tror, at deres egne løsninger er bedre."
+    },
+    {
+      "question": "Hvad er formlen for succesfuld forandringskommunikation?",
+      "answer": "HVORFOR × HVAD × HVORDAN → Hvis én faktor mangler (0), mislykkes forandringen."
+    },
+    {
+      "question": "Hvad betyder HVORFOR i forandringskommunikation?",
+      "answer": "Oplevelsen af nødvendighed - alle skal forstå, hvorfor forandringen er vigtig (\"brændende platform\")."
+    },
+    {
+      "question": "Hvad betyder HVAD i forandringskommunikation?",
+      "answer": "En fælles vision - hvor vi vil hen, og hvordan fremtiden skal se ud."
+    },
+    {
+      "question": "Hvad betyder HVORDAN i forandringskommunikation?",
+      "answer": "En konkret handlingsplan - de første skridt mod den ønskede forandring."
+    },
+    {
+      "question": "Hvad sker der, hvis HVORFOR mangler?",
+      "answer": "Manglende motivation til forandring."
+    },
+    {
+      "question": "Hvad sker der, hvis HVAD mangler?",
+      "answer": "Manglende mål og forvirring om retningen."
+    },
+    {
+      "question": "Hvad sker der, hvis HVORDAN mangler?",
+      "answer": "Manglende tryghed og usikkerhed om, hvordan forandringen gennemføres."
+    },
+    {
+      "question": "Hvad beskriver Daft/Greiners udviklingsstadier?",
+      "answer": "Faser i organisationers vækst: \n1. Start-up (behov for ledelse) \n2. Kollektivitet (behov for uddelegering) \n3. Formalisering (behov for fleksibilitet) \n4. Elaborering (behov for revitalisering)."
+    },
+    {
+      "question": "Hvad er de otte typiske fejl ifølge Kotter?",
+      "answer": "1. For stor selvtilfredshed \n2. Ingen styrende koalition \n3. Undervurdering af vision \n4. Dårlig kommunikation \n5. Forhindringer blokerer \n6. Ingen kortsigtede sejre \n7. Sejr fejres for tidligt \n8. Forandringen forankres ikke i kulturen."
+    },
+    {
+      "question": "Hvad er konsekvensen af de otte fejl?",
+      "answer": "Strategier implementeres ikke, fusioner giver ikke synergi, og medarbejdere mister troen på ledelsen."
+    },
+    {
+      "question": "Hvad er Kotters 8 trin til succesfuld forandring?",
+      "answer": "1. Skab nødvendighed \n2. Skab styrende koalition \n3. Udvikl vision \n4. Mobiliser frivillige \n5. Fjern forhindringer \n6. Skab kortsigtede resultater \n7. Konsolider og accelerer \n8. Forankr forandringen i kulturen."
+    },
+    {
+      "question": "Hvad er Kotters Accelerationsmodel?",
+      "answer": "En nyere model, der kombinerer top-down og bottom-up forandring via interne netværk. \nForandring starter ofte ved en mulighed eller trussel - ikke kun en ledelsesbeslutning."
+    },
+    {
+      "question": "Hvad er forskellen på Kotters 8-trinsmodel og Accelerationsmodellen?",
+      "answer": "8-trinsmodellen er topstyret (top-down). \n\nAccelerationsmodellen inddrager medarbejdere gennem strateginetværk (bottom-up)."
+    },
+    {
+      "question": "Hvad består Kotters strategiforum af?",
+      "answer": "En kombination af topledelse og et strateginetværk af frivillige medarbejdere fra alle lag i organisationen."
+    },
+    {
+      "question": "Hvad er pointen i Kotters accelerationsmodel?",
+      "answer": "Forandring skabes gennem både formel struktur (ledelse) og uformelle netværk (medarbejdere). \nDet handler om at udnytte muligheder hurtigt og skabe engagement."
+    },
+    {
+      "question": "Hvad kræver succesfuld forandring ifølge Kotter?",
+      "answer": "Oplevet nødvendighed, \nklar vision og handleplan, \ngod kommunikation, medarbejderinvolvering, \nkortsigtede sejre og \nlangsigtet forankring."
+    },
+    {
+      "question": "Hvad er eksempler på strategier, der ofte medfører forandring?",
+      "answer": "Innovationsstrategi, digitaliseringsstrategi, bæredygtighedsstrategi og CSR-indsats."
+    }
   ]
 }
