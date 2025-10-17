@@ -123,6 +123,75 @@ button.btn:disabled { opacity: .5; cursor: not-allowed; }
 .toolbar { display: flex; gap: 8px; margin: 12px 0; }
 .link { color: var(--primary-700); text-decoration: none; font-weight: 600; }
 
+/* Flashcard container */
+.flashcard {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  font-size: 18px;
+  cursor: pointer;
+  overflow: hidden;
+  height: 200px; /* Fixed height for consistent appearance */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Flashcard faces */
+.flashcard-face {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+  word-wrap: break-word;
+  overflow: hidden;
+}
+
+
+
+/* Navigation buttons */
+.nav button {
+  margin: 10px;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  background-color: var(--primary);
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.nav button:hover {
+  background-color: var(--primary-600);
+  transform: translateY(-2px);
+}
+
+.nav button.secondary {
+  background-color: #f3f4f6;
+  color: var(--primary-700);
+  border: 1px solid var(--primary-600);
+}
+
+.nav button.secondary:hover {
+  background-color: var(--primary-600);
+  color: #fff;
+}
+
+.nav button:disabled {
+  background-color: #ccc;
+  color: #666;
+  cursor: not-allowed;
+  transform: none;
+}
+
 @media (max-width: 520px) {
   .question { font-size: 18px; }
 }

@@ -1,4 +1,6 @@
-let QUESTION_BANK = {};
+let QUESTION_BANK = {}; // For quiz questions
+let FLASHCARD_BANK = {}; // For flashcards
+
 const TOPICS_ORDER = [
   "Organisation og omverden",
   "Forretningsforståelse",
@@ -32,10 +34,17 @@ const summaryEl = $('#summary');
 const reviewList = $('#reviewList');
 const retryBtn = $('#retryBtn');
 const resultsBack = $('#resultsBack');
+const flashcardsView = $('#flashcardsView');
+const flashcardText = $('#flashcardText');
+const flashcardCrumbs = $('#flashcardCrumbs');
+const prevFlashcardBtn = $('#prevFlashcardBtn');
+const nextFlashcardBtn = $('#nextFlashcardBtn');
+const backToTopicsFlashcards = $('#backToTopicsFlashcards');
 
 function show(view) {
   topicsView.style.display = view === 'topics' ? '' : 'none';
   quizView.style.display = view === 'quiz' ? '' : 'none';
+  flashcardsView.style.display = view === 'flashcards' ? '' : 'none';
   resultsView.style.display = view === 'results' ? '' : 'none';
   backToTopicsTop.style.display = view === 'quiz' ? '' : 'none';
   window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -52,9 +61,13 @@ function renderTopics() {
   for (const t of TOPICS_ORDER) {
     const card = document.createElement('div');
     card.className = 'topic';
-    const count = (QUESTION_BANK[t] || []).length;
-    card.innerHTML = `<h3>${t}</h3><p>${count > 0 ? count + ' spørgsmål' : 'Ingen spørgsmål endnu'}</p>`;
-    card.addEventListener('click', () => startTopic(t));
+    const count = (QUESTION_BANK[t] || []).length; // Use QUESTION_BANK for quiz questions
+    card.innerHTML = `
+      <h3>${t}</h3>
+      <p>${count > 0 ? count + ' spørgsmål' : 'Ingen spørgsmål endnu'}</p>
+      <button class="btn" onclick="startFlashcards('${t}')">Flashcards</button>
+      <button class="btn" onclick="startTopic('${t}')">Quiz</button>
+    `;
     frag.appendChild(card);
   }
 
@@ -217,7 +230,78 @@ retryBtn.addEventListener('click', () => {
 });
 resultsBack.addEventListener('click', e => { e.preventDefault(); show('topics'); });
 
+
+// Load quiz questions (if stored in a separate JSON file)
 fetch('questions.json')
   .then(res => res.json())
-  .then(data => { QUESTION_BANK = data; renderTopics(); })
+  .then(data => {
+    QUESTION_BANK = data; // Store quiz questions here
+    renderTopics(); // Render topics after loading quiz questions
+  })
   .catch(err => console.error('Error loading questions.json', err));
+
+// Load flashcards
+fetch('flashcards.json')
+  .then(res => res.json())
+  .then(data => {
+    FLASHCARD_BANK = data; // Store flashcards here
+  })
+  .catch(err => console.error('Error loading flashcards.json', err));
+
+
+let flashcardState = { topic: null, flashcards: [], index: 0 };
+
+function startFlashcards(topic) {
+  const flashcards = FLASHCARD_BANK[topic] || []; // Use FLASHCARD_BANK for flashcards
+  if (!flashcards.length) return alert('Ingen flashcards til dette emne endnu.');
+
+  flashcardState = { topic, flashcards, index: 0 };
+  renderFlashcard();
+  show('flashcards');
+}
+
+function renderFlashcard() {
+  const card = flashcardState.flashcards[flashcardState.index];
+  flashcardCrumbs.textContent = `${flashcardState.topic}`;
+
+  // Set up the flashcard with two sides
+  flashcardText.innerHTML = `
+    <div class="flashcard-face front">${card.question || "Ingen spørgsmål"}</div>
+    <div class="flashcard-face back" style="display:none;">${card.answer || "Ingen svar"}</div>
+  `;
+
+  prevFlashcardBtn.style.display = flashcardState.index === 0 ? 'none' : '';
+  nextFlashcardBtn.style.display = flashcardState.index < flashcardState.flashcards.length - 1 ? '' : 'none';
+}
+
+// Keydown event listener for flipping and navigation
+document.addEventListener('keydown', (e) => {
+  if (flashcardsView.style.display === 'none') return;
+
+  if (e.code === 'Space') {
+    e.preventDefault();
+    const front = flashcardText.querySelector('.front');
+    const back = flashcardText.querySelector('.back');
+    if (front.style.display === 'none') {
+      front.style.display = '';
+      back.style.display = 'none';
+    } else {
+      front.style.display = 'none';
+      back.style.display = '';
+    }
+  }
+
+  if (e.code === 'ArrowRight') {
+    if (flashcardState.index < flashcardState.flashcards.length - 1) {
+      flashcardState.index++;
+      renderFlashcard();
+    }
+  }
+
+  if (e.code === 'ArrowLeft') {
+    if (flashcardState.index > 0) {
+      flashcardState.index--;
+      renderFlashcard();
+    }
+  }
+});

@@ -1,0 +1,96 @@
+{
+  "Forretningsforståelse": [
+    {
+      "question": "Hvad er forretningsforståelse?",
+      "answer": "Evnen til at vurdere og se mulighederne for, hvordan en organisation bedst skaber værdi for kunderne gennem samspil mellem de interne og eksterne styringsprocesser."
+    },
+    {
+      "question": "Hvad er værdiskabelse?",
+      "answer": "Omdrejningspunkt i organisationer. At bruge ressourcer til at skabe værdi: Privat: skabe overskud og afkast til ejere. Offentlig: forvalte ressourcer for størst mulig værdi for borgerne. Med fokus på økonomisk, social og miljømæssig balance."
+    },
+    {
+      "question": "Hvad er et åbent system i organisationssammenhæng?",
+      "answer": "Organisationen modtager input, bearbejder det gennem processer, struktur og kultur, og skaber output i samspil med omgivelserne."
+    },
+    {
+      "question": "Hvad er en værdikæde?",
+      "answer": "Input → bearbejdning → output. Viser hvordan værdiskabelse sker i flere trin gennem processer og samarbejde."
+    },
+    {
+      "question": "Hvad er interne styringsprocesser?",
+      "answer": "Informationsflow, der styrer planlægning → beslutning → kontrol. Styrer de udførende processer (det fysiske flow)."
+    },
+    {
+      "question": "Hvad er eksterne styringsprocesser?",
+      "answer": "Samarbejde og styring mellem virksomheden og omgivelserne - fx kunder, leverandører, partnere, myndigheder, forsyningskæder, logistik og e-handel."
+    },
+    {
+      "question": "Hvad er den tredobbelte bundlinje?",
+      "answer": "En virksomheds præstation vurderes på tre områder: økonomisk, miljømæssig og social ansvarlighed (Profit, Planet, People)."
+    },
+    {
+      "question": "Hvad er en forretningsmodel?",
+      "answer": "Beskriver, hvordan virksomheden skaber, leverer og indfanger værdi. Bygger på analyse af kundebehov og samarbejde mellem aktører i værdikæden. En god forretningsmodel skaber både kundeværdi og fortjeneste."
+    },
+    {
+      "question": "Hvad er forretningsmodellærredet (Business Model Canvas)?",
+      "answer": "Et visuelt værktøj, der viser virksomhedens forretningsmodel gennem 9 byggeklodser."
+    },
+    {
+      "question": "Hvad er de 9 byggeklodser i Business Model Canvas?",
+      "answer": "Kundesegmenter, værdiforslag, kanaler, kunderelationer, indtægtsstrømme, nøgleaktiviteter, nøglepartnere, nøgleressourcer, omkostningsstruktur."
+    },
+    {
+      "question": "Hvad er kundesegmenter?",
+      "answer": "De kundegrupper virksomheden retter sine produkter og ydelser mod."
+    },
+    {
+      "question": "Hvad er et værdiforslag?",
+      "answer": "Det virksomheden tilbyder, som skaber værdi for kunden (fx pris, kvalitet, service, bæredygtighed)."
+    },
+    {
+      "question": "Hvad er kanaler i en forretningsmodel?",
+      "answer": "Hvordan virksomheden leverer værdien til kunden (fx butik, hjemmeside, app, distribution)."
+    },
+    {
+      "question": "Hvad er kunderelationer?",
+      "answer": "Hvordan virksomheden opbygger og vedligeholder kontakt og loyalitet hos kunder."
+    },
+    {
+      "question": "Hvad er indtægtsstrømme?",
+      "answer": "Hvordan virksomheden tjener penge på sine værdiforslag (fx salg, abonnement, licenser)."
+    },
+    {
+      "question": "Hvad er nøgleaktiviteter?",
+      "answer": "De vigtigste handlinger, der skal udføres for at få forretningsmodellen til at fungere (produktion, udvikling, marketing)."
+    },
+    {
+      "question": "Hvad er nøglepartnere?",
+      "answer": "Eksterne aktører, som virksomheden samarbejder med for at skabe værdi (leverandører, partnere, alliancer)."
+    },
+    {
+      "question": "Hvad er nøgleressourcer?",
+      "answer": "De vigtigste aktiver og ressourcer (fx mennesker, teknologi, viden, kapital)."
+    },
+    {
+      "question": "Hvad er omkostningsstruktur?",
+      "answer": "De væsentligste udgifter forbundet med at drive forretningsmodellen (fx løn, produktion, drift)."
+    },
+    {
+      "question": "Hvad er den tredobbelte bundlinje BMC?",
+      "answer": "Udvidet version af BMC, hvor alle byggeklodser vurderes ud fra økonomisk, miljømæssig og social bæredygtighed."
+    },
+    {
+      "question": "Hvad er skabelse af kundeværdi / Value Proposition Canvas?",
+      "answer": "Værktøj der viser sammenhængen mellem kundens behov (pain/gain) og virksomhedens værdiforslag."
+    },
+    {
+      "question": "Hvad er godt købmandskab?",
+      "answer": "Økonomisk ansvarlig forretningsdrift - at bruge ressourcer effektivt for at skabe overskud (privat sektor)."
+    },
+    {
+      "question": "Hvad er offentlig værdiskabelse?",
+      "answer": "At skabe størst mulig værdi for borgerne gennem effektiv forvaltning af tildelte ressourcer (offentlig sektor)."
+    }
+  ]
+}
