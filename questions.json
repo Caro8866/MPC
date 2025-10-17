@@ -1,0 +1,1806 @@
+{
+  "Organisation og omverden": [
+    {
+      "topic": "Organisation og omverden",
+      "nr": 1,
+      "question": "Distancearbejde adskiller sig fra distribueret arbejde ved at:",
+      "a": "Det kun kan foretages på den fysiske arbejdsplads",
+      "b": "Du kun har en løs ansættelsesmæssig tilknytning",
+      "c": "Du har en fast ansættelse og fastlagte arbejdsopgaver",
+      "d": "Du bliver ansat til at løse en specifik opgave",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 2,
+      "question": "Den afgørende forskel på en organisation og en virksomhed er:",
+      "a": "At en virksomhed udbetaler lønninger",
+      "b": "At en organisation kun beskæftiger frivillige medarbejdere",
+      "c": "At hovedformålet for en virksomhed er økonomisk overlevelse",
+      "d": "At en organisation har et fælles mål",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 3,
+      "question": "At en organisation kan betragtes som et åbent system betyder:",
+      "a": "At man kan kontakte organisationen via internettet",
+      "b": "At organisationen gennemstrømmes af ressourcer - der er input og output",
+      "c": "At det er muligt at møde op på organisationens adresse",
+      "d": "At organisationens systemer ikke er sikret mod vira og spam",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 4,
+      "question": "Det kendetegnende ved en organisations struktur er:",
+      "a": "At organisationen har en fast adresse",
+      "b": "At alle medarbejdere inddrages i beslutningerne",
+      "c": "At organisationen har retningslinjer, mål og strategier",
+      "d": "At organisationen er opdelt efter ansvars- og arbejdsfordeling",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 5,
+      "question": "Kulturen i en organisation kan bedst beskrives som:",
+      "a": "At der lægges vægt på retningslinjer",
+      "b": "Det, der opfattes som det fælles grundlag",
+      "c": "Virksomhedens indretning og fremtoning udadtil",
+      "d": "Den måde omgivelserne opfatter organisationen på",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 6,
+      "question": "En organisations processer kan også opfattes som:",
+      "a": "Bindeleddet mellem strukturen og kulturen",
+      "b": "Ansvarsfordelingen for opgavernes udførelse",
+      "c": "Medarbejdernes motivation til at løse opgaverne",
+      "d": "De arbejdsgange der er beskrevet i forhold til omverdenen",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisation og omverden",
+      "nr": 7,
+      "question": "Grænsefladen mellem organisationen og omverdenen kan forstås som:",
+      "a": "En fast defineret grænse, hvor man skal lukkes ind",
+      "b": "Et checkpoint for login eller adgangskort",
+      "c": "Et hjemsted for projekter og deres styregrupper",
+      "d": "En platform hvor man både kan være indenfor og udenfor på samme tid",
+      "correct_option": "d"
+    }
+  ],
+  "Forretningsforståelse": [
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 1,
+      "question": "Hvad betyder forretningsforståelse?",
+      "a": "Evnen til at udvikle nye produkter uafhængigt af markedet",
+      "b": "Evnen til at se muligheder for, hvordan organisationen skaber værdi gennem interne og eksterne processer",
+      "c": "Evnen til at styre virksomhedens produktion og logistik",
+      "d": "Evnen til at anvende økonomiske modeller til at beregne overskud",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 2,
+      "question": "Hvad er kernen i værdiskabelse?",
+      "a": "At reducere omkostninger uanset konsekvenser",
+      "b": "At maksimere aktiekursen på kort sigt",
+      "c": "At bruge ressourcer til at skabe værdi for ejere eller borgere",
+      "d": "At undgå forandringer i organisationen",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 3,
+      "question": "Hvad betyder det, at en organisation er et “åbent system”?",
+      "a": "At organisationen er offentlig og ikke-profitbaseret",
+      "b": "At organisationen påvirkes af og påvirker omgivelserne gennem input og output",
+      "c": "At alle medarbejdere har fri adgang til alle beslutninger",
+      "d": "At organisationen kun har interne processer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 4,
+      "question": "Hvad illustrerer en værdikæde?",
+      "a": "Sammenhængen mellem ejerskab og profit",
+      "b": "Hvordan værdiskabelse sker i trin fra input til output",
+      "c": "Hvordan organisationer deles op i afdelinger",
+      "d": "Et værktøj til regnskabsanalyse",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 5,
+      "question": "Hvad dækker interne styringsprocesser over?",
+      "a": "Samarbejde med leverandører og kunder",
+      "b": "Informationsflow der styrer planlægning, beslutning og kontrol",
+      "c": "Politisk påvirkning af organisationen",
+      "d": "Strategiske partnerskaber i værdikæden",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 6,
+      "question": "Hvad er eksterne styringsprocesser?",
+      "a": "Interne kommunikationsstrukturer",
+      "b": "Samspil mellem virksomhed og omgivelser (kunder, partnere, myndigheder)",
+      "c": "Kontrolsystemer i ledelsen",
+      "d": "Systemer til HR-styring",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 7,
+      "question": "Hvad indebærer den tredobbelte bundlinje?",
+      "a": "Kun fokus på økonomisk overskud",
+      "b": "Fokus på økonomisk, miljømæssig og social ansvarlighed",
+      "c": "Øget automatisering af processer",
+      "d": "At man altid prioriterer økonomi over miljø",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 8,
+      "question": "Hvad beskriver en forretningsmodel?",
+      "a": "Hvordan virksomheden markedsfører sig digitalt",
+      "b": "Hvordan virksomheden skaber, leverer og indfanger værdi",
+      "c": "En detaljeret finansiel rapport",
+      "d": "En organisations hierarki",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 9,
+      "question": "Hvad viser Forretningsmodellærredet (Business Model Canvas)?",
+      "a": "De vigtigste nøgletal i regnskabet",
+      "b": "Forretningsmodellen gennem 9 byggeklodser",
+      "c": "Kundernes tilfredshedsniveau",
+      "d": "De vigtigste HR-processer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 10,
+      "question": "Hvilken af nedenstående er IKKE en af BMC’s 9 byggeklodser?",
+      "a": "Kunderelationer",
+      "b": "Nøglepartnere",
+      "c": "Produktionslayout",
+      "d": "Værdiforslag",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 11,
+      "question": "Hvad beskriver kundesegmenter?",
+      "a": "Hvordan virksomheden organiserer sin interne produktion",
+      "b": "De kundegrupper virksomheden henvender sig til",
+      "c": "Virksomhedens leverandørkæde",
+      "d": "De geografiske markeder virksomheden undgår",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 12,
+      "question": "Hvad er et værdiforslag?",
+      "a": "Det virksomheden tilbyder, som skaber værdi for kunden",
+      "b": "En plan for prisstrategi",
+      "c": "En markedsføringskampagne",
+      "d": "Et forslag fra virksomhedens medarbejdere",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 13,
+      "question": "Hvad menes med kanaler i BMC?",
+      "a": "Kommunikationskanaler internt i virksomheden",
+      "b": "Hvordan virksomheden leverer værdien til kunderne",
+      "c": "Hvordan virksomheden måler kundetilfredshed",
+      "d": "Interne distributionsnetværk",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 14,
+      "question": "Hvad dækker kunderelationer over?",
+      "a": "Forholdet mellem virksomhed og leverandør",
+      "b": "Hvordan virksomheden opbygger og vedligeholder loyalitet hos kunder",
+      "c": "Hvordan virksomheden deler ejerskab",
+      "d": "Hvilke kunder der køber mest",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 15,
+      "question": "Hvad menes med indtægtsstrømme?",
+      "a": "De penge virksomheden skylder",
+      "b": "Hvordan virksomheden tjener penge på sine værdiforslag",
+      "c": "Den daglige produktion",
+      "d": "Investeringer i nye aktiver",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 16,
+      "question": "Hvad er nøgleaktiviteter?",
+      "a": "De vigtigste handlinger for at få forretningsmodellen til at fungere",
+      "b": "Aktiviteter i virksomhedens HR-afdeling",
+      "c": "Administrative rutiner",
+      "d": "Regnskabsaktiviteter",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 17,
+      "question": "Hvad er nøglepartnere?",
+      "a": "Virksomhedens kunder",
+      "b": "Eksterne aktører, som virksomheden samarbejder med",
+      "c": "De vigtigste medarbejdere internt",
+      "d": "Virksomhedens ejere",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 18,
+      "question": "Hvad er nøgleressourcer?",
+      "a": "Økonomiske aktier",
+      "b": "De vigtigste aktiver og ressourcer (mennesker, viden, teknologi, kapital)",
+      "c": "Leverandørernes ressourcer",
+      "d": "Statens tilskud",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 19,
+      "question": "Hvad viser omkostningsstrukturen?",
+      "a": "De væsentligste udgifter ved at drive forretningsmodellen",
+      "b": "Hvor mange produkter der sælges",
+      "c": "Organisationens hierarki",
+      "d": "Fordelingen af ejerskab",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 20,
+      "question": "Hvad indebærer den tredobbelte bundlinje i BMC?",
+      "a": "Kun økonomiske mål i hver byggeklods",
+      "b": "At alle byggeklodser vurderes ud fra økonomisk, miljømæssig og social bæredygtighed",
+      "c": "At kunderelationer altid prioriteres højest",
+      "d": "At kun CSR-afdelingen vurderes",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 21,
+      "question": "Hvad viser Value Proposition Canvas (skabelse af kundeværdi)?",
+      "a": "Sammenhængen mellem kundens behov og virksomhedens værdiforslag",
+      "b": "En SWOT-analyse",
+      "c": "Kundens geografiske placering",
+      "d": "Et budgetværktøj",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 22,
+      "question": "Hvad betyder “godt købmandskab”?",
+      "a": "At tage økonomisk ansvar og bruge ressourcer effektivt for overskud",
+      "b": "At sælge varer til den laveste pris",
+      "c": "At fokusere på kundeservice frem for økonomi",
+      "d": "At investere alt i vækst uden kontrol",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 23,
+      "question": "Hvad betyder offentlig værdiskabelse?",
+      "a": "At skabe overskud til offentlige investorer",
+      "b": "At skabe størst mulig værdi for borgerne gennem effektiv ressourceforvaltning",
+      "c": "At privatisere offentlige ydelser",
+      "d": "At reducere udgifter uanset kvalitet",
+      "correct_option": "b"
+    },
+
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 24,
+      "question": "Ved forretningsforståelse er det vigtigt at kunne:",
+      "a": "Vurdere mulighederne for værdiskabelse for virksomheden og kunderne",
+      "b": "Forstå de økonomiske sammenhænge i virksomheden",
+      "c": "Gennemskue markedernes udvikling",
+      "d": "Forstå kundernes/borgernes ønsker om varer og serviceydelser",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 25,
+      "question": "En værdikædeanalyse kan benyttes til:",
+      "a": "At få et overblik over hvordan ressourcerne anvendes i virksomheden",
+      "b": "At justere de interne omkostninger i systemet med den markedspris det er muligt at få for produktet",
+      "c": "At blive bevidst om anvendelsen af ressourcer",
+      "d": "At give et overblik over hvor stort et spild, der er undervejs i værdiskabelsen",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 26,
+      "question": "En forretningsmodel er kendetegnet ved:",
+      "a": "At afklare virksomhedens produkt- og markedsstrategi",
+      "b": "At give udtryk for værdiskabelsen fra input til output",
+      "c": "At være et kompliceret samspil af samarbejder, der skaber værdi for kunderne",
+      "d": "At være et billede at aktiviteter, belønningssystemer og organisationsdesign",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 27,
+      "question": "En forretningsmodel er kendetegnet ved:",
+      "a": "At have fokus på virksomhedens overlevelse og udvikling",
+      "b": "At skabe kundeværdi så alle involverede parter vinder",
+      "c": "At anvende ressourcerne bedst muligt",
+      "d": "At lægge vægt på konkurrenternes styrke og position i markedet",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 28,
+      "question": "Hvordan kan den tredobbelte bundlinje anvendes i praksis?",
+      "a": "Den giver overblik over økonomien på tre niveauer",
+      "b": "Her vises hvordan forretningsmodellen matcher kundernes forventning til økonomi, bæredygtighed og klimaansvarlighed",
+      "c": "Forretningsmodellen kan justeres ud fra egne forventninger til økonomi, bæredygtighed og klimaansvarlighed",
+      "d": "Der kan udarbejdes forretningsmodel for hver af de tre bundlinjer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forretningsforståelse",
+      "nr": 29,
+      "question": "Den vigtigste forskel på forretningsmodeller og strategier:",
+      "a": "Strategier har fokus på detaljerede handlingsplaner og forretningsmodeller på konkurrenter",
+      "b": "Forretningsmodeller er mere rettet mod den praktiske udførelse af den bagvedliggende strategi",
+      "c": "Forretningsmodeller har fokus på kundernes ønsker og strategier på kundernes behov for varer og ydelser",
+      "d": "Strategier sikrer at vi har planer 3-5 år frem i tiden, mens forretningsmodeller har fokus på konkurrencen i markedet",
+      "correct_option": "b"
+    }
+  ],
+  "Strategi": [
+    {
+      "topic": "Strategi",
+      "nr": 1,
+      "question": "Den strategiske proces som en lineær proces",
+      "a": "Den strategiske proces forløber fra fase til fase",
+      "b": "Den strategiske proces foregår ved at gå to skridt frem og et tilbage hvorved tidligere faser genbesøges",
+      "c": "Den strategiske proces ses som en planlagt fremadskridende proces uden tilbageløb til tidligere stadier i strategiforløbet",
+      "d": "Der sker løbende evaluering af tidligere beslutninger efterhånden som strategiprocessen forløber",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Strategi",
+      "nr": 2,
+      "question": "Den strategiske proces som en cirkulær proces",
+      "a": "Den strategiske proces sker på baggrund af en fast køreplan",
+      "b": "Den strategiske proces foregår ved at der sker en løbende evaluering og genforhandling af tidligere trufne beslutninger",
+      "c": "Den strategiske proces følger en forud fastlagt plan",
+      "d": "Det er ikke muligt at foretage ændringer af tidligere trufne beslutninger",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Strategi",
+      "nr": 3,
+      "question": "Ved en intern strategianalyse forbindes:",
+      "a": "Analyser, hvor der ikke medvirker fx konsulenter udefra",
+      "b": "En analyse hvor fx virksomhedens stærke og svage sider er i fokus",
+      "c": "Analyser hvor der ses bort fra de økonomiske aspekter",
+      "d": "Analyser på det taktiske og operative niveau",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Strategi",
+      "nr": 4,
+      "question": "En værdikædeanalyse kan benyttes til:",
+      "a": "At få et overblik over om virksomheden når sine budgetterede mål",
+      "b": "At sikre at alle interessenter behandles ligeværdigt",
+      "c": "At vurdere hvilke af virksomhedens produkter, der giver størst værdi for virksomheden",
+      "d": "At give et overblik over virksomhedens værdiskabelse",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Strategi",
+      "nr": 5,
+      "question": "Modellen Porters 5 Forces kan benyttes til:",
+      "a": "At bedømme fem aktuelle økonomiske nøgletal",
+      "b": "At få et overblik over konkurrenceforholdene i den branche, hvor virksomheden opererer",
+      "c": "At give fem stærke argumenter for udarbejdelse af en ny organisationsform",
+      "d": "At få blotlagt fem styrker, der kan hindre potentielle interne konflikter",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Strategi",
+      "nr": 6,
+      "question": "Emergerende strategi er kendetegnet ved:",
+      "a": "At planlægge den fremtidige strategi i detaljer",
+      "b": "At nye initiativer og muligheder skal erstatte den intenderede strategien",
+      "c": "At realisere den intenderede strategi",
+      "d": "At være åben overfor nye påvirkninger udefra i forhold til den intenderede strategi",
+      "correct_option": "d"
+    }
+  ],
+  "Forandringsledelse": [
+    {
+      "topic": "Forandringsledelse",
+      "nr": 1,
+      "question": "Hvad beskriver bedst sammenhængen mellem strategi og forandring?",
+      "a": "Strategi og forandring er to uafhængige processer",
+      "b": "Strategi handler kun om planlægning, ikke forandring",
+      "c": "Strategiske intentioner kræver ofte forandring i vaner og processer",
+      "d": "Forandring er kun relevant for innovationsteams",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 2,
+      "question": "Hvad betyder innovation i forandringsledelse?",
+      "a": "Innovation handler om at reducere risiko",
+      "b": "Innovation er nyskabelse, der skaber værdi og ændrer organisationen",
+      "c": "Innovation er kun relevant i teknologiske virksomheder",
+      "d": "Innovation betyder improvisation uden plan",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 3,
+      "question": "Hvilken type innovation beskriver “små, løbende forbedringer”?",
+      "a": "Radikal innovation",
+      "b": "Disruptiv innovation",
+      "c": "Brugerdrevet innovation",
+      "d": "Inkrementel innovation",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 4,
+      "question": "Hvad er en årsag til, at organisationer forandrer sig?",
+      "a": "Øget selvtilfredshed",
+      "b": "Teknologisk udvikling og globalisering",
+      "c": "Manglende ledelsesstruktur",
+      "d": "Høj medarbejdermotivation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 5,
+      "question": "Hvad bestemmer ofte medarbejderes reaktionsformer ved forandring?",
+      "a": "Organisationens kultur, værdier og normer",
+      "b": "Alder og anciennitet",
+      "c": "Konkurrenternes handlinger",
+      "d": "Personens sociale status",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 6,
+      "question": "Hvilken af nedenstående er et eksempel på positiv reaktion på forandring?",
+      "a": "Lavere produktivitet",
+      "b": "Protester",
+      "c": "Engagement og samarbejde",
+      "d": "Bevidste fejl",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 7,
+      "question": "Det første trin i Kotters 8-trins forandringsmodel er:",
+      "a": "Udvikling af en forandringsvision",
+      "b": "Oprettelse af en styrende koalition",
+      "c": "Generering af plan for at opnå kortsigtede gevinster",
+      "d": "Etablere en oplevelse af nødvendighed",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 7,
+      "question": "Hvilken type modstand beskrives som “jeg forstår ikke, hvorfor der skal ske en forandring”?",
+      "a": "Følelsesmæssig modstand",
+      "b": "Forståelsesmæssig modstand",
+      "c": "Personrettet modstand",
+      "d": "Strategisk modstand",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 8,
+      "question": "Hvad beskriver “Not Invented Here”-syndromet?",
+      "a": "Modstand mod teknologiske ændringer",
+      "b": "Når ledelsen ikke inddrager medarbejdere",
+      "c": "Når medarbejdere afviser ideer udefra",
+      "d": "Når organisationen mangler ressourcer",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 8,
+      "question": "Ved forståelsen af CSR inddrages følgende elementer:",
+      "a": "Økonomisk og juridisk ansvarlighed skaber sammen den sociale ansvarlighed",
+      "b": "Bæredygtighed som basis for den tredobbelte bundlinje",
+      "c": "Økonomisk, juridisk, etisk samt filantropisk ansvarlighed",
+      "d": "Juridisk, økonomisk samt værdibaseret og bæredygtig ansvarlighed",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 9,
+      "question": "Hvad står formlen HVORFOR × HVAD × HVORDAN for?",
+      "a": "Tre faser i strategiprocessen",
+      "b": "Faktorer i succesfuld forandringskommunikation",
+      "c": "Trin i Kotters model",
+      "d": "Typer af innovation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 10,
+      "question": "Hvad betyder HVORFOR i forandringskommunikation?",
+      "a": "En handlingsplan for første skridt",
+      "b": "Oplevelsen af nødvendighed for forandring",
+      "c": "Den konkrete vision",
+      "d": "Måling af resultater",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 11,
+      "question": "Hvad sker der, hvis “HVAD” mangler i kommunikationen?",
+      "a": "Manglende mål og forvirring",
+      "b": "Manglende motivation",
+      "c": "Manglende tryghed",
+      "d": "Manglende kontrol",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 12,
+      "question": "Hvad sker der, hvis “HVORDAN” mangler i kommunikationen?",
+      "a": "Manglende mål",
+      "b": "Manglende tryghed",
+      "c": "Manglende motivation",
+      "d": "Manglende lederskab",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 13,
+      "question": "Hvad er korrekt rækkefølge i Daft/Greiners udviklingsfaser?",
+      "a": "Formalisering → Start-up → Elaborering → Kollektivitet",
+      "b": "Start-up → Kollektivitet → Formalisering → Elaborering",
+      "c": "Kollektivitet → Start-up → Elaborering → Formalisering",
+      "d": "Start-up → Elaborering → Kollektivitet → Formalisering",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 14,
+      "question": "Hvad er en typisk fejl i Kotters teori om forandring?",
+      "a": "For mange kortsigtede gevinster",
+      "b": "Overdreven kommunikation",
+      "c": "For stor selvtilfredshed",
+      "d": "For meget medarbejderinvolvering",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 15,
+      "question": "Hvad er det første trin i Kotters 8-trinsmodel?",
+      "a": "Skab nødvendighed",
+      "b": "Skab kortsigtede resultater",
+      "c": "Fjern forhindringer",
+      "d": "Forankr forandringen",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 16,
+      "question": "Hvad er det sidste trin i Kotters 8-trinsmodel?",
+      "a": "Skab kortsigtede resultater",
+      "b": "Udvikl en vision",
+      "c": "Forankr forandringen i kulturen",
+      "d": "Skab en styrende koalition",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 17,
+      "question": "Hvad er Kotters Accelerationsmodel kendetegnet ved?",
+      "a": "Kun top-down-ledelse",
+      "b": "Fokus på hurtige resultater uden struktur",
+      "c": "Kombination af top-down og bottom-up via netværk",
+      "d": "Fokus på kontrol og struktur",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 18,
+      "question": "Hvad består Kotters strategiforum af?",
+      "a": "Kun topledelsen",
+      "b": "Et strateginetværk med frivillige medarbejdere",
+      "c": "Et eksternt konsulentteam",
+      "d": "Finansielle interessenter",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 19,
+      "question": "Hvad er pointen i Kotters Accelerationsmodel?",
+      "a": "At undgå medarbejderinddragelse",
+      "b": "At skabe forandring gennem netværk og engagement",
+      "c": "At styrke bureaukratiske strukturer",
+      "d": "At reducere kommunikation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 20,
+      "question": "Hvad kræver succesfuld forandring ifølge Kotter?",
+      "a": "Stram ledelseskontrol",
+      "b": "Oplevet nødvendighed, klar vision og kommunikation",
+      "c": "Eksterne konsulenter",
+      "d": "Udenlandske investeringer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 21,
+      "question": "Hvad er et eksempel på strategi, der ofte fører til forandring?",
+      "a": "CSR- og bæredygtighedsstrategi",
+      "b": "Budgetstrategi",
+      "c": "Kommunikationsstrategi",
+      "d": "HR-strategi",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 22,
+      "question": "Hvad er konsekvensen, hvis forandringer ikke forankres i kulturen?",
+      "a": "De bliver en del af hverdagen",
+      "b": "De mister effekt over tid",
+      "c": "De bliver mere effektive",
+      "d": "De kommunikeres bedre",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 23,
+      "question": "Hvilken fase i forandringskommunikation giver “brændende platform”-følelsen?",
+      "a": "HVAD",
+      "b": "HVORFOR",
+      "c": "HVORDAN",
+      "d": "Vision",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 24,
+      "question": "Hvilken type modstand handler om manglende tillid til ledelsen?",
+      "a": "Personrettet modstand",
+      "b": "Følelsesmæssig modstand",
+      "c": "Forståelsesmæssig modstand",
+      "d": "Strategisk modstand",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Forandringsledelse",
+      "nr": 25,
+      "question": "Hvad kendetegner en organisation i formaliseringsfasen?",
+      "a": "Høj grad af kreativitet og frihed",
+      "b": "Fokus på systemer og struktur",
+      "c": "Manglende koordinering",
+      "d": "Behov for ny ledelse",
+      "correct_option": "b"
+    }
+  ],
+  "Organisationsdesign": [
+    {
+      "topic": "Organisationsdesign",
+      "nr": 1,
+      "question": "Horisontal arbejdsdeling involverer i særlig grad:",
+      "a": "Specialisering og fordeling af opgaveløsningen",
+      "b": "Fordeling af ansvar og myndighed",
+      "c": "Kontrolspændvidde og kommunikationsstruktur",
+      "d": "Organisationens antal af niveauer og grad af centralisering",
+      "e": "Strategisk koordinering på tværs af ledelseslag",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 2,
+      "question": "Organiske organisationsformer er kendetegnet ved:",
+      "a": "Et stærkt hierarki, hvor viden og beslutningskompetence er samlet i toppen",
+      "b": "Klar arbejdsdeling, således at alle medarbejdere kender deres plads i organisationen",
+      "c": "Fleksible strukturer, der gør, at man hurtigt kan omstille sig",
+      "d": "Lydighed og loyalitet overfor organisationen og de overordnede",
+      "e": "Fastlagte procedurer og central kontrol",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 3,
+      "question": "Centralisering af organisationer har følgende fordel:",
+      "a": "Fokus på hurtige beslutninger",
+      "b": "Øget fleksibilitet",
+      "c": "Kommunikationsbehovet mindskes",
+      "d": "Vigtige strategiske beslutninger uddelegeres til de operationelle niveauer",
+      "e": "Større innovation i medarbejdergruppen",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 4,
+      "question": "Hvilken af disse organisationsformer er IKKE en del af Mintzbergs teori?",
+      "a": "Den basale form",
+      "b": "Adhocrati",
+      "c": "Netværksorganisation",
+      "d": "Fagbureaukrati",
+      "e": "Maskinbureaukrati",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 5,
+      "question": "De personer, der har det overordnede ansvar for et projekts forløb, kaldes:",
+      "a": "Projektgruppen",
+      "b": "Referencegruppen",
+      "c": "Styregruppen",
+      "d": "Brugergruppen",
+      "e": "Ledelseskomitéen",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 6,
+      "question": "Netværksorganisationen er kendetegnet ved:",
+      "a": "En udpræget grad af decentralisering",
+      "b": "En høj grad af samarbejde med kendte parter i en fast struktur",
+      "c": "At have fleksible mødetider i den faste struktur",
+      "d": "At være et netværk af virksomheder fx en arbejdsgiverforening",
+      "e": "At fokusere på intern konkurrence mellem divisioner",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 7,
+      "question": "En matrixorganisation er kendetegnet ved:",
+      "a": "At der er en særlig projektorganisation tilkoblet basisorganisationen",
+      "b": "At teknologi er den væsentligste faktor for dannelsen af strukturen",
+      "c": "At medarbejdere har dobbelt reference – både til projektleder og funktionsleder",
+      "d": "At organisationen betragtes som et lukket system",
+      "e": "At beslutninger udelukkende tages centralt",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 8,
+      "question": "Fremtidige organisationsformer forventes at være:",
+      "a": "Fleksible, forandringsparate og stærkt forbundet til omverdenen",
+      "b": "Faststrukturerede og hierarkiske med fokus på stabilitet",
+      "c": "Centraliserede med klare kommandoveje",
+      "d": "Teknologineutrale og uafhængige af innovation",
+      "e": "Orienteret mod langsigtet bureaukratisk effektivitet",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 9,
+      "question": "Hvad viser forskellen mellem mekanistisk og organisk struktur?",
+      "a": "Mekanistiske er stabile og hierarkiske, mens organiske er fleksible og adaptive",
+      "b": "Organiske fokuserer på kontrol, mens mekanistiske fokuserer på samarbejde",
+      "c": "Mekanistiske strukturer fremmer innovation",
+      "d": "Organiske strukturer undgår al form for ledelse",
+      "e": "De to begreber betyder det samme i praksis",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 10,
+      "question": "Hvad betyder kontrolspændvidde?",
+      "a": "Antallet af medarbejdere, en leder har ansvar for",
+      "b": "Afstanden mellem ledelsesniveauer",
+      "c": "Forskellen i ansvar mellem afdelinger",
+      "d": "Graden af specialisering i organisationen",
+      "e": "Hastigheden af beslutningsprocesser",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 11,
+      "question": "Hvad er kernen i Mintzbergs adhocrati?",
+      "a": "Stram struktur og mange regler",
+      "b": "Innovation og fleksibilitet i projektteams",
+      "c": "Central kontrol med beslutningsprocesser",
+      "d": "Langsigtet planlægning og stabilitet",
+      "e": "Fokus på standardisering og hierarki",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 12,
+      "question": "Hvilken funktion udfører teknostrukturen i Mintzbergs model?",
+      "a": "Udfører kerneydelsen",
+      "b": "Effektiviserer standardisering og processer",
+      "c": "Leder det daglige arbejde",
+      "d": "Skaber ideologi og motivation",
+      "e": "Formidler kommunikation mellem afdelinger",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 13,
+      "question": "Hvad betyder vertikal arbejdsdeling?",
+      "a": "Opdeling mellem ledelsesniveauer og ansvar",
+      "b": "Fordeling af opgaver på tværs af afdelinger",
+      "c": "Opdeling efter kundetyper",
+      "d": "Kommunikation mellem divisioner",
+      "e": "Koordination mellem støttefunktioner",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 14,
+      "question": "Hvad beskriver en funktionsopdelt struktur bedst?",
+      "a": "Afdelinger opdeles efter produkter",
+      "b": "Afdelinger opdeles efter markeder",
+      "c": "Afdelinger opdeles efter faglige funktioner som HR, salg og produktion",
+      "d": "Afdelinger opdeles efter regioner",
+      "e": "Afdelinger opdeles tilfældigt for fleksibilitet",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 15,
+      "question": "Hvad er formålet med integration i en organisation?",
+      "a": "At styrke samarbejde og sammenhæng mod fælles mål",
+      "b": "At skabe flere selvstændige afdelinger",
+      "c": "At fremme intern konkurrence",
+      "d": "At reducere beslutningskraft hos medarbejdere",
+      "e": "At forenkle tekniske processer",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 16,
+      "question": "Hvad karakteriserer et maskinbureaukrati?",
+      "a": "Fokus på innovation og teams",
+      "b": "Mange regler, procedurer og central kontrol",
+      "c": "Løs struktur med høj frihed",
+      "d": "Tværgående netværk uden hierarki",
+      "e": "Ingen formelle roller",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 17,
+      "question": "Hvad er den primære fordel ved decentralisering?",
+      "a": "Hurtigere beslutningstagning tæt på problemerne",
+      "b": "Mere stabilitet i organisationen",
+      "c": "Øget hierarkisk kontrol",
+      "d": "Mindre ansvar for medarbejdere",
+      "e": "Bedre standardisering af arbejdsprocesser",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 18,
+      "question": "Hvad er en projektorganisation kendetegnet ved?",
+      "a": "Mid­lertidige enheder med egne mål og ressourcer",
+      "b": "Permanent hierarkisk struktur",
+      "c": "Manglende ledelse og kontrol",
+      "d": "Standardiserede rutiner og faste afdelinger",
+      "e": "Afdelinger opdelt efter geografi",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 19,
+      "question": "Hvad er forskellen mellem differentiering og integration?",
+      "a": "Differentiering skaber forskelle, integration skaber sammenhæng",
+      "b": "Integration skaber forskelle, differentiering skaber ensretning",
+      "c": "De to begreber betyder det samme",
+      "d": "Integration handler om specialisering",
+      "e": "Differentiering betyder hierarki",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationsdesign",
+      "nr": 20,
+      "question": "Hvad kendetegner en adhokratisk organisation?",
+      "a": "Hierarki og bureaukrati",
+      "b": "Kreativitet, innovation og fleksibilitet",
+      "c": "Stram ledelseskontrol",
+      "d": "Faste procedurer og langsomme beslutninger",
+      "e": "Lav grad af samarbejde",
+      "correct_option": "b"
+    }
+  ],
+  "Personlig, teams og samarbejde": [
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 1,
+      "question": "Motivation kan overordnet set betragtes som:",
+      "a": "Et middel til at opnå større effektivitet",
+      "b": "En måde hvorpå man kan opnå mere tilfredse medarbejdere",
+      "c": "En tænkemåde om at tilskynde til bevægelse",
+      "d": "Muligheden for at få medarbejderne til at arbejde mere effektivt ved at opnå personlige mål",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 1,
+      "question": "Når der tales om en positiv synergieffekt menes:",
+      "a": "At de enkelte teammedlemmer gensidigt inspirerer hinanden, således at teamets samlede ydelse bliver bedre end de enkeltes sammenlagt",
+      "b": "At der bliver et større socialt fællesskab i teamet, som vil skabe en positiv effekt",
+      "c": "At der ikke er behov for at der udpeges en teamkoordinator, fordi der allerede er en positiv kommunikation",
+      "d": "At teamet med fordel kan uddelegere arbejdsopgaverne mellem sig",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 2,
+      "question": "Selvskabelse fokuserer på det enkelte menneskes drift til at:",
+      "a": "Skabe et passende billede af sig selv i sine omgivelser",
+      "b": "Give sig i kast med at skabe sin egen fremtid",
+      "c": "Sørge for at det er muligt at skabe egne arbejdsvilkår",
+      "d": "Skabe mening ud fra de informationer, der virker overskuelige og tilgængelige",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 2,
+      "question": "Ved social kapital forstås:",
+      "a": "Opsparede personalegoder fx frihed til en ekstra fridag",
+      "b": "Enighed i teamet om løsning af arbejdsopgaverne",
+      "c": "Teammedlemmerne tager det på sig at skabe et fællesskab baseret på tillid, retfærdighed og samarbejde",
+      "d": "Teammedlemmernes samlede grad af tilfredshed med at arbejde i pågældende team",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 3,
+      "question": "For at kunne udforme et jobdesign er det vigtigt, at:",
+      "a": "Medarbejderne designer deres egne job ud fra egne krav og ønsker",
+      "b": "Lederen ud fra klare kriterier designer den enkelte medarbejders arbejdsområde, ofte i samråd med pågældende medarbejder",
+      "c": "Leder og medarbejder fokuserer på organisationens mål, for at kunne planlægge det bedste jobdesign",
+      "d": "Krav og ønsker til det enkelte job tages op til debat, så kriterierne for jobdesign kan fastlægges",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 3,
+      "question": "Årsagen til at Belbins teamroller ofte benyttes ved sammensætningen af et team, er:",
+      "a": "Det sikrer, at alle ligner hinanden og derfor let kan samarbejde",
+      "b": "Alle roller bør være til stede i teamet, for at teamet fungerer tilfredsstillende",
+      "c": "At teammedlemmerne kan være leder indenfor hver deres område",
+      "d": "At de personlige kompetencer i form af introvert, ekstrovert, stabil og rastløs mv. vil være forskellige",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 4,
+      "question": "Med selvudvikling er fokus flyttet til den enkelte medarbejder, der:",
+      "a": "Selv har ansvar for egen udvikling og derfor må klare sig bedst muligt",
+      "b": "Ud fra faste rammer for udvikling, selv må udfylde disse",
+      "c": "Inden for et fastlagt jobdesign selv må vælge de elementer i jobbet, der giver de bedste udviklingsmuligheder",
+      "d": "Ud fra selvrefleksion må iagttage sig selv og sin position i forhold til sine omgivelser og ønskede udviklingsmuligheder",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 4,
+      "question": "Tuckmanns model for et teams udvikling kan benyttes til:",
+      "a": "At vurdere hvor mange måneder, det tager inden teamet fungerer optimalt",
+      "b": "At afgøre hvilken ledelsesform, der er behov for på et bestemt tidspunkt",
+      "c": "Gøre opmærksom på typiske træk, som ofte optræder i forbindelse med udviklingsforløbet for et team",
+      "d": "At vurdere hvorvidt der på et tidspunkt kan benyttes vedligeholdelsesfaktorer eller motivationsfaktorer",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 5,
+      "question": "Konfliktopløsning skal forstås på følgende måde:",
+      "a": "At afgøre hvilken af to konfliktende parter, der har ret",
+      "b": "Indkredsning af problem med henblik på udbedring af mangler",
+      "c": "Konflikten ses som en kilde til at skabe fornyelse i teamets løsning af sin kerneopgave",
+      "d": "At konflikten løses én gang for alle",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 5,
+      "question": "Sammenhængen mellem opfattelsen af personligheden og definitionen af roller i organisationen er baseret på:",
+      "a": "En opfattelse af at personlighed og roller i jobbet er fastlagt på forhånd",
+      "b": "At personlig udvikling i forhold til de roller jobbet indeholder, ikke kan lade sig gøre",
+      "c": "En tanke om, at vi har en entydig og uforanderlig personlighed, der ikke kan ændres, hvorfor rollerne må tilpasses til den enkeltes personlighed",
+      "d": "Rollerne i organisationen er fastlagt, så det drejer sig om at finde de rette personligheder til at udfylde dem",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 6,
+      "question": "Opfattelsen af at vi har flere selver og dermed kan indtage forskellige positioner bygger på, at:",
+      "a": "Selvet skabes i relationer mellem mennesker som et resultat af kommunikation og magtforhold",
+      "b": "Selvet er fast defineret som en form for personlighed, og positionen har at gøre med funktionen man bestrider i organisationen",
+      "c": "Selvet er vores egen opfattelse af os selv ud fra den måde, vi udfylder vores roller. Dermed er positionen den måde, vi udfylder vores roller på",
+      "d": "Selvet er et resultat af ydrestyring, og positionerne er de måder, hvorpå vi lever op til vores roller",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Personlig, teams og samarbejde",
+      "nr": 6,
+      "question": "Ved et medstyrende team forstås:",
+      "a": "At et team får ansvar for nogle afgrænsede opgaver og tildeles frihed til selv at løse disse opgaver inden for aftalte mål og ressourcer",
+      "b": "At teamet får tildelt en leder med chef-ansvar, der har en løbende dialog med teammedlemmerne",
+      "c": "At teamet får det fulde ansvar for de opgaver, som det skal løse og ligeledes fuld råderet over de ressourcer, som teamet finder nødvendige dertil",
+      "d": "At teamet selvstændigt kan opsøge lederen, når det mangler råd og vejledning",
+      "correct_option": "a"
+    }
+  ],
+  "Ledelse": [
+    {
+      "topic": "Ledelse",
+      "nr": 1,
+      "question": "Hvad er hovedformålet med ledelse?",
+      "a": "At udføre driftsopgaver selv",
+      "b": "At koordinere menneskers indsats for at nå fælles mål",
+      "c": "At sikre økonomisk overskud",
+      "d": "At skabe intern konkurrence",
+      "e": "At kontrollere medarbejdere",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 2,
+      "question": "Hvad adskiller strategisk, taktisk og operationel ledelse primært?",
+      "a": "Deres niveau i organisationen og tidsperspektiv",
+      "b": "Antal medarbejdere",
+      "c": "Den geografiske placering",
+      "d": "Økonomisk ansvar",
+      "e": "Lønniveau",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 3,
+      "question": "Hvad er fokus for strategisk ledelse?",
+      "a": "Daglig drift",
+      "b": "Implementering af planer",
+      "c": "Langsigtet retning og overordnede beslutninger",
+      "d": "Produktion og kontrol",
+      "e": "Kundeservice",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 4,
+      "question": "Hvad er hovedopgaven for taktisk ledelse?",
+      "a": "At udforme virksomhedens vision",
+      "b": "At omsætte strategier til konkrete planer og aktiviteter",
+      "c": "At udføre rutineopgaver",
+      "d": "At fordele økonomiske midler",
+      "e": "At godkende årsregnskabet",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 5,
+      "question": "Hvad kendetegner operationel ledelse?",
+      "a": "Fokus på organisationens værdier",
+      "b": "Fokus på daglig drift og opgaveløsning",
+      "c": "Fokus på strategisk udvikling",
+      "d": "Fokus på medarbejdertilfredshed",
+      "e": "Fokus på ekstern kommunikation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 6,
+      "question": "Hvad beskriver forskellen mellem Management og Leadership bedst?",
+      "a": "Management handler om struktur, Leadership om inspiration",
+      "b": "Management handler om innovation, Leadership om drift",
+      "c": "Management handler om økonomi, Leadership om HR",
+      "d": "Management handler om regler, Leadership om kontrol",
+      "e": "Management handler om planlægning, Leadership om autoritet",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 7,
+      "question": "Hvad karakteriserer en manager?",
+      "a": "Motiverer medarbejdere gennem dialog",
+      "b": "Kontrollerer processer og sikrer stabilitet",
+      "c": "Fokuserer på innovation og forandring",
+      "d": "Arbejder uden struktur",
+      "e": "Lader medarbejderne bestemme alt",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 8,
+      "question": "Hvad karakteriserer en leader?",
+      "a": "Fokuserer på regler og kontrol",
+      "b": "Inspirerer, motiverer og viser retning",
+      "c": "Holder sig til detaljer og data",
+      "d": "Undgår ansvar for beslutninger",
+      "e": "Arbejder uden kommunikation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 9,
+      "question": "Hvad beskriver 'lederens krydspres'?",
+      "a": "Pres fra kollegaer om højere løn",
+      "b": "Modstridende krav fra økonomi, politik, samarbejde og udvikling",
+      "c": "Konflikt mellem arbejdstider og privatliv",
+      "d": "Uenighed mellem medarbejdere",
+      "e": "Usikkerhed omkring strategi",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 10,
+      "question": "Hvad viser Blake & Moutons Ledergitter?",
+      "a": "Lønniveau og resultater",
+      "b": "Lederens balance mellem fokus på resultater og mennesker",
+      "c": "Hierarkiet i organisationen",
+      "d": "Lederens relation til interessenter",
+      "e": "Lederens evne til at håndtere stress",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 11,
+      "question": "Hvad er hovedpointen i McGregors X- og Y-teori?",
+      "a": "Der findes kun én effektiv ledelsesstil",
+      "b": "Ledere bør skifte mellem hård og blød styring",
+      "c": "Lederens menneskesyn påvirker ledelsesformen",
+      "d": "Motivation afhænger af alder",
+      "e": "Kontrol skaber trivsel",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 12,
+      "question": "Hvad betyder Adizes’ lederroller?",
+      "a": "At ledelse kun handler om produktion",
+      "b": "At en leder skal balancere fire roller: producent, administrator, entrepreneur og integrator",
+      "c": "At man kun skal fokusere på proces",
+      "d": "At innovation er vigtigere end samarbejde",
+      "e": "At alle ledere bør have samme stil",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 13,
+      "question": "Hvad er Lewins tre ledelsesformer?",
+      "a": "Autoritær, Demokratisk og Laissez-faire",
+      "b": "Taktisk, Strategisk og Operationel",
+      "c": "Kontrollerende, Åben og Fleksibel",
+      "d": "Direkte, Indirekte og Neutral",
+      "e": "Formelt, Uformelt og Personligt",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 14,
+      "question": "Hvad betyder situationsbestemt ledelse (Tannenbaum & Schmidt)?",
+      "a": "Lederen ændrer stil efter konjunkturer",
+      "b": "Lederen tilpasser graden af frihed efter medarbejdernes modenhed",
+      "c": "Lederen følger faste regler",
+      "d": "Lederen bestemmer altid alene",
+      "e": "Lederen skifter mellem roller tilfældigt",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 15,
+      "question": "Hvad betyder medarbejdertilpasset ledelse (Hersey & Blanchard)?",
+      "a": "At lederen planlægger uden medarbejderinddragelse",
+      "b": "At ledelsesstilen afhænger af medarbejderens kompetence og motivation",
+      "c": "At lederen vælger én fast stil",
+      "d": "At medarbejderen styrer lederen",
+      "e": "At medarbejdere ikke har brug for støtte",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 16,
+      "question": "Hvilken af følgende er IKKE en af de fire stilarter hos Hersey & Blanchard?",
+      "a": "Instruerende",
+      "b": "Trænende",
+      "c": "Støttende",
+      "d": "Overvågende",
+      "e": "Delegerende",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 17,
+      "question": "Hvad kendetegner systemisk ledelse?",
+      "a": "Fokus på kontrol og regler",
+      "b": "Fokus på relationer, kommunikation og fælles mening",
+      "c": "Fokus på økonomisk styring",
+      "d": "Fokus på individuel præstation",
+      "e": "Fokus på teknologi",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 18,
+      "question": "Hvad er målet med medledelse?",
+      "a": "At reducere medarbejdernes ansvar",
+      "b": "At skabe fælles ejerskab og medansvar i organisationen",
+      "c": "At centralisere beslutninger",
+      "d": "At fremme konkurrence mellem medarbejdere",
+      "e": "At undgå samarbejde",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 19,
+      "question": "Hvad betyder Appreciative Inquiry (AI)?",
+      "a": "Problemløsning gennem kontrol",
+      "b": "Anerkendende ledelse med fokus på det, der virker",
+      "c": "Fokus på fejl og svagheder",
+      "d": "Økonomisk målstyring",
+      "e": "Bureaukratisk udvikling",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 20,
+      "question": "Hvad betyder værdiledelse?",
+      "a": "At styre gennem regler og straf",
+      "b": "At skabe retning gennem fælles værdier og etik",
+      "c": "At lede ud fra økonomiske resultater",
+      "d": "At fjerne lederrollen helt",
+      "e": "At fokusere på teknologi",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 21,
+      "question": "En leder med et Y-syn kan have følgende kommentar til en medarbejder, der gentagne gange melder sig syg mandag morgen:",
+      "a": "Du bliver trukket i løn",
+      "b": "God bedring og lad os tage en snak, når du er rask igen",
+      "c": "Skal vi ikke bare aftale, at du arbejder over de følgende dage i stedet",
+      "d": "Det går ud over din bonus",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 22,
+      "question": "En mellemleder, der opnår scoren 3,9 i ledergitteret er:",
+      "a": "Meget optaget af at medarbejderne trives",
+      "b": "Meget optaget af, at produktionstallene nås",
+      "c": "Meget kvalitetsbevidst",
+      "d": "Sandsynligvis en autoritær leder",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 23,
+      "question": "En autoritær topleder vil som mødeleder søge at:",
+      "a": "Gennemtrumfe sin egen holdning",
+      "b": "Sikre at alle bliver hørt",
+      "c": "Gøre alt for at aktionærerne bliver taget med på råd",
+      "d": "Varetage kundernes interesser på lang sigt",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 24,
+      "question": "En HR-manager med koden Pa0i:",
+      "a": "Er særdeles velegnet som HR-manager",
+      "b": "Burde i stedet satse på at blive leder i produktionen",
+      "c": "Er meget udviklingsorienteret",
+      "d": "Er ifølge Adizes uegnet som leder",
+      "correct_option": "d"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 25,
+      "question": "En U4 medarbejder har mest behov for:",
+      "a": "En støttende leder",
+      "b": "En instruerende leder",
+      "c": "En delegerende leder",
+      "d": "En situationsbestemt leder",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Ledelse",
+      "nr": 26,
+      "question": "Kun et af de følgende udsagn er korrekt, hvilket?",
+      "a": "Refleksionens domæne er præget af overvejelser over egen opfattelser af situationen",
+      "b": "Produktionens domæne er præget af logik, objektivitet og mål som udgangspunkt for handlinger",
+      "c": "Det personlige domæne er baseret på faktuelle oplysninger, som basis for selv at tage stilling",
+      "d": "Refleksionens domæne tager udgangspunkt i egen mavefornemmelse for situationen",
+      "correct_option": "b"
+    }
+  ],
+  "Organisationskultur": [
+    {
+      "topic": "Organisationskultur",
+      "nr": 1,
+      "question": "Hvad er organisationskultur ifølge Edgar Schein?",
+      "a": "De regler, som medarbejdere skal følge",
+      "b": "En formel struktur med hierarki og styring",
+      "c": "De fælles antagelser, værdier og normer, som deles af organisationens medlemmer",
+      "d": "En virksomheds visuelle identitet og brand",
+      "e": "Medarbejdernes individuelle holdninger",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 2,
+      "question": "Hvad er en subkultur i en organisation?",
+      "a": "En midlertidig gruppe uden ledelse",
+      "b": "En mindre enheds egne fortolkninger af organisationens kultur og værdier",
+      "c": "Et uformelt netværk mellem to organisationer",
+      "d": "En gruppe, der arbejder mod organisationens mål",
+      "e": "En kultur, der opstår mellem ledelsen og kunderne",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 3,
+      "question": "Hvilke tre niveauer består Scheins kulturmodel af?",
+      "a": "Værdier, struktur og adfærd",
+      "b": "Visioner, missioner og processer",
+      "c": "Artefakter, skueværdier og grundlæggende antagelser",
+      "d": "Normer, symboler og kommunikation",
+      "e": "Strategi, ledelse og identitet",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 4,
+      "question": "Hvad kendetegner artefakter i Scheins model?",
+      "a": "De synlige symboler og adfærdsmønstre i organisationen",
+      "b": "De dybtliggende værdier, som tages for givet",
+      "c": "De usynlige strukturer, som styrer handlinger",
+      "d": "De strategiske beslutninger, der træffes i ledelsen",
+      "e": "De økonomiske resultater af organisationens handlinger",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 5,
+      "question": "Hvad er grundlæggende antagelser i Scheins model?",
+      "a": "Organisationens synlige handlinger og symboler",
+      "b": "Ubevidste og taget-for-givet opfattelser, som styrer adfærd",
+      "c": "De skrevne politikker og værdigrundlag",
+      "d": "Medarbejdernes individuelle meninger",
+      "e": "De formelle procedurer for adfærd",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 6,
+      "question": "Hvad kendetegner en stærk kultur?",
+      "a": "Lav grad af fællesskab og engagement",
+      "b": "Høj enighed og stort engagement omkring fælles værdier",
+      "c": "Mange subkulturer og svag ledelse",
+      "d": "Konflikter og uenighed i organisationen",
+      "e": "Manglende retning og identitet",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 7,
+      "question": "Hvad kendetegner en svag kultur?",
+      "a": "Lav enighed og lavt engagement",
+      "b": "Stærk loyalitet og sammenhold",
+      "c": "Klar fælles vision og værdier",
+      "d": "Fokus på samarbejde og trivsel",
+      "e": "Kultur præget af innovation og fleksibilitet",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 8,
+      "question": "Hvad kan en for stærk kultur føre til?",
+      "a": "Øget innovation og åbenhed",
+      "b": "Eksklusion og manglende plads til forskellighed",
+      "c": "Større fleksibilitet i beslutninger",
+      "d": "Bedre trivsel blandt medarbejdere",
+      "e": "Mere effektiv kommunikation",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 9,
+      "question": "Hvad er vigtigt ved kulturfusioner ifølge Schein?",
+      "a": "At én kultur dominerer den anden",
+      "b": "At skabe en fælles kultur baseret på gensidig respekt og forståelse",
+      "c": "At fastholde hver kultur uændret",
+      "d": "At fokusere på økonomi frem for kultur",
+      "e": "At reducere antallet af medarbejdere for hurtig tilpasning",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 10,
+      "question": "Hvad er de fire kulturtyper i Cameron & Quinns model?",
+      "a": "Hierarki, Klan, Adhocrati og Marked",
+      "b": "Team, Bureaukrati, Netværk og Struktur",
+      "c": "Klan, Hierarki, Bureaukrati og Proces",
+      "d": "Markeds-, Strategi-, Proces- og Projektkultur",
+      "e": "Innovations-, Service-, Produktions- og Netværkskultur",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 11,
+      "question": "Hvad kendetegner klankulturen i Cameron & Quinns model?",
+      "a": "Konkurrence og resultatorientering",
+      "b": "Hierarki og kontrol",
+      "c": "Samhørighed, samarbejde og fælles værdier",
+      "d": "Fokus på teknologi og innovation",
+      "e": "Fokus på eksterne partnere og kunder",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 12,
+      "question": "Hvad kendetegner adhocratisk kultur?",
+      "a": "Stabilitet og klare hierarkier",
+      "b": "Innovation, fleksibilitet og eksperimenter",
+      "c": "Tæt kontrol og faste rutiner",
+      "d": "Fokus på tradition og stabilitet",
+      "e": "Lav tolerance for fejl",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 13,
+      "question": "Hvad betyder Hofstedes magtdistance?",
+      "a": "I hvilken grad ulighed og hierarki accepteres",
+      "b": "Hvordan medarbejdere samarbejder på tværs af kulturer",
+      "c": "Hvor meget magt ledelsen har over økonomien",
+      "d": "Hvor meget medarbejdere ønsker fleksibilitet",
+      "e": "Hvordan konflikter håndteres i teams",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 14,
+      "question": "Hvad handler Hofstedes individualisme-dimension om?",
+      "a": "Hvor tæt medarbejdere samarbejder med kunder",
+      "b": "I hvilken grad samfundet værdsætter fællesskab eller individuel frihed",
+      "c": "Hvordan medarbejdere reagerer på forandringer",
+      "d": "I hvilken grad ledelsen kontrollerer beslutninger",
+      "e": "Om organisationen prioriterer resultater over relationer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 15,
+      "question": "Hvad betyder Hofstedes usikkerhedsundgåelse?",
+      "a": "Tendensen til at undgå risici og søge forudsigelighed",
+      "b": "Organisationens evne til at håndtere forandringer",
+      "c": "Hvor åben man er over for innovation",
+      "d": "Ledelsens behov for magt og kontrol",
+      "e": "Hvor meget man fokuserer på resultater",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 16,
+      "question": "Hvad viser Hofstedes tidsorientering?",
+      "a": "Om kulturen fokuserer på fortiden, nutiden eller fremtiden",
+      "b": "Hvordan medarbejdere planlægger projekter",
+      "c": "Hvor hurtigt beslutninger træffes",
+      "d": "Hvor meget tid medarbejdere bruger på samarbejde",
+      "e": "Om virksomheden arbejder med innovation",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 17,
+      "question": "Hvad betyder Hofstedes dimension 'nydelse vs. selvbeherskelse'?",
+      "a": "Hvor meget kulturen tillader at udtrykke følelser og behov",
+      "b": "Hvor meget medarbejdere kontrolleres af ledelsen",
+      "c": "Hvordan medarbejdere håndterer konflikter",
+      "d": "Hvor meget tid medarbejdere bruger på fritid",
+      "e": "Om medarbejdere er ekstroverte eller introverte",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 18,
+      "question": "Hvad beskriver Mary Jo Hatchs dynamiske kulturforståelse?",
+      "a": "Kultur er en statisk struktur baseret på værdier",
+      "b": "Kultur er en dynamisk proces med kontinuerlig meningsskabelse",
+      "c": "Kultur er primært et produkt af ledelsens beslutninger",
+      "d": "Kultur er en fast norm i alle organisationer",
+      "e": "Kultur kan ikke ændres over tid",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 19,
+      "question": "Hvad er de fire elementer i Hatchs model?",
+      "a": "Fortolkning, manifestation, realisering og symbolisering",
+      "b": "Vision, mission, værdier og adfærd",
+      "c": "Normer, sprog, adfærd og traditioner",
+      "d": "Planlægning, udførelse, måling og evaluering",
+      "e": "Ledelse, struktur, kultur og strategi",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 20,
+      "question": "Hvad betyder 'manifestation' i Hatchs model?",
+      "a": "Når værdier og antagelser bliver synlige gennem handlinger og symboler",
+      "b": "Når kultur dokumenteres i virksomhedens politikker",
+      "c": "Når symboler mister deres betydning",
+      "d": "Når kultur ændres ved fusioner",
+      "e": "Når medarbejdere fortolker ledelsens strategi",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 21,
+      "question": "Hvad betyder 'symbolisering' i Hatchs model?",
+      "a": "Når artefakter får mening gennem fælles fortolkning",
+      "b": "Når kultur udtrykkes gennem budgetter",
+      "c": "Når normer erstattes af regler",
+      "d": "Når medarbejdere mister motivation",
+      "e": "Når værdier fjernes fra organisationens praksis",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 22,
+      "question": "Hvad kendetegner en god organisationskultur?",
+      "a": "Kontrol, hierarki og disciplin",
+      "b": "Åbenhed, tillid, samarbejde og fælles mål",
+      "c": "Konkurrence mellem afdelinger",
+      "d": "Fokus på resultater frem for trivsel",
+      "e": "Lukket kommunikation og faste procedurer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 23,
+      "question": "Hvad går Lewis’ teori om kulturelle typer ud på?",
+      "a": "At kulturer udvikler sig lineært fra svage til stærke",
+      "b": "At kulturer kan være lineære-aktive, multi-aktive eller reaktive",
+      "c": "At alle kulturer styres af økonomiske faktorer",
+      "d": "At hierarki er en universel kulturtype",
+      "e": "At subkulturer bør undgås i organisationer",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 24,
+      "question": "Hvad er formålet med at opbygge en stærk kultur?",
+      "a": "At skabe effektivitet, trivsel og fælles retning",
+      "b": "At reducere diversitet i organisationen",
+      "c": "At sikre hierarkisk kontrol",
+      "d": "At fremme konkurrence mellem medarbejdere",
+      "e": "At minimere samarbejde",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Organisationskultur",
+      "nr": 25,
+      "question": "Hvilke faktorer indgår i opbygningen af en stærk kultur?",
+      "a": "Be on brand, transparens, trivsel, feedback og læring",
+      "b": "Kontrol, hierarki, standardisering og målstyring",
+      "c": "Straf, konkurrence og resultater",
+      "d": "Lukket kommunikation og centralisering",
+      "e": "Reduceret medarbejderinddragelse",
+      "correct_option": "a"
+    }
+  ],
+  "Økonomi": [
+    {
+      "topic": "Økonomi",
+      "nr": 1,
+      "question": "Hvad beskriver bedst, hvad økonomi handler om?",
+      "a": "Hvordan man markedsfører en virksomhed",
+      "b": "Hvordan man bruger ressourcer effektivt for at skabe værdi",
+      "c": "Hvordan man udarbejder en organisationsstruktur",
+      "d": "Hvordan man motiverer medarbejdere",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 2,
+      "question": "Hvad er driftsøkonomi?",
+      "a": "Planlægning af virksomhedens marketingaktiviteter",
+      "b": "Virksomhedens daglige styring af indtægter, omkostninger og ressourcer",
+      "c": "Ledelsens strategiske beslutningsproces",
+      "d": "Analyse af medarbejdertilfredshed",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 3,
+      "question": "Hvad er en indtægt?",
+      "a": "En omkostning ved produktionen",
+      "b": "En investering i anlægsaktiver",
+      "c": "Det beløb virksomheden får for salg af varer eller ydelser",
+      "d": "Et lån fra en bank",
+      "correct_option": "c"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 4,
+      "question": "Hvad er en omkostning?",
+      "a": "En udgift som reducerer egenkapitalen",
+      "b": "Værdien af ressourcer, der bruges for at skabe indtægter",
+      "c": "Et overskud fra tidligere år",
+      "d": "Et indskud fra ejeren",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 5,
+      "question": "Hvad er kapacitetsomkostninger?",
+      "a": "Variable omkostninger der afhænger af produktionen",
+      "b": "Faste omkostninger som husleje og forsikring",
+      "c": "Salgsfremmende udgifter",
+      "d": "Afskrivninger på maskiner",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 6,
+      "question": "Hvad er variable omkostninger?",
+      "a": "Omkostninger der ændrer sig i takt med aktivitetsniveauet",
+      "b": "Udgifter til ledelse og administration",
+      "c": "Faste betalinger uafhængig af aktivitet",
+      "d": "Skatter og afgifter",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 7,
+      "question": "Hvad er direkte omkostninger?",
+      "a": "Omkostninger der kan henføres direkte til et produkt eller en ordre",
+      "b": "Alle faste udgifter",
+      "c": "Kun lønomkostninger",
+      "d": "Indirekte administrationsudgifter",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 8,
+      "question": "Hvad er indirekte omkostninger?",
+      "a": "Omkostninger der varierer direkte med produktionen",
+      "b": "Udgifter der ikke kan henføres til en specifik ordre, fx administration",
+      "c": "Indtægter fra investeringer",
+      "d": "Midlertidige omkostninger",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 9,
+      "question": "Hvad er moms?",
+      "a": "Et gebyr til leverandører",
+      "b": "En forbrugsafgift på 25 % af varer og ydelser",
+      "c": "En skat på virksomhedens overskud",
+      "d": "En renteudgift på lån",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 10,
+      "question": "Hvordan beregnes prisen inkl. moms?",
+      "a": "Pris x 0,25",
+      "b": "Pris x 1,25",
+      "c": "Pris x 0,8",
+      "d": "Pris + 25 kr.",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 11,
+      "question": "Hvad er et budget?",
+      "a": "En registrering af afsluttede økonomiske poster",
+      "b": "En økonomisk plan over forventede indtægter og udgifter",
+      "c": "En oversigt over virksomhedens anlægsaktiver",
+      "d": "Et dokument til revisionen",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 12,
+      "question": "Hvad er likviditetsbudgettet?",
+      "a": "Et budget over investeringer i anlægsaktiver",
+      "b": "Et budget over virksomhedens pengestrømme – ind- og udbetalinger",
+      "c": "Et budget over markedsføringsaktiviteter",
+      "d": "Et budget over faste udgifter",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 13,
+      "question": "Hvad indeholder et årsregnskab typisk?",
+      "a": "Resultatopgørelse og balance",
+      "b": "Budget og forecast",
+      "c": "Produktionsplan og HR-data",
+      "d": "CSR-rapport og markedsanalyse",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 14,
+      "question": "Hvad viser resultatopgørelsen?",
+      "a": "Virksomhedens fremtidige mål",
+      "b": "Indtægter og omkostninger i en periode",
+      "c": "Egenkapitalens fordeling",
+      "d": "Likvide beholdninger",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 15,
+      "question": "Hvad viser balancen?",
+      "a": "Indtægter minus udgifter i perioden",
+      "b": "Virksomhedens aktiver og passiver på et givent tidspunkt",
+      "c": "Kundernes betalingsevne",
+      "d": "Overskudsgrad og likviditet",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 16,
+      "question": "Hvad er forskellen mellem aktiver og passiver?",
+      "a": "Aktiver er det virksomheden ejer, passiver er finansieringen af disse",
+      "b": "Aktiver er lån, passiver er egenkapital",
+      "c": "Aktiver er udgifter, passiver er indtægter",
+      "d": "Ingen forskel – de betyder det samme",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 17,
+      "question": "Hvad viser afkastningsgraden (AG)?",
+      "a": "Hvor effektivt virksomheden skaber overskud ud fra den samlede kapital",
+      "b": "Virksomhedens evne til at betale kortfristet gæld",
+      "c": "Andelen af aktiver finansieret af egenkapital",
+      "d": "Hvor meget af omsætningen der bliver til overskud",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 18,
+      "question": "Hvad viser overskudsgraden (OG)?",
+      "a": "Andelen af aktiver finansieret med egenkapital",
+      "b": "Virksomhedens evne til at skabe overskud af omsætningen",
+      "c": "Omsætningsaktiver i forhold til gæld",
+      "d": "Rentabiliteten af egenkapitalen",
+      "correct_option": "b"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 19,
+      "question": "Hvad viser soliditetsgraden (SG)?",
+      "a": "Hvor stor en del af aktiverne der er finansieret af egenkapital",
+      "b": "Hvor effektivt virksomheden bruger sine aktiver",
+      "c": "Omsætningshastigheden af lagre",
+      "d": "Rentabiliteten af virksomhedens drift",
+      "correct_option": "a"
+    },
+    {
+      "topic": "Økonomi",
+      "nr": 20,
+      "question": "Hvad viser likviditetsgraden (LG)?",
+      "a": "Virksomhedens evne til at betale sine kortfristede forpligtelser",
+      "b": "Forholdet mellem faste og variable omkostninger",
+      "c": "Egenkapitalens afkast",
+      "d": "Omsætning i forhold til aktiver",
+      "correct_option": "a"
+    }
+  ]
+}
