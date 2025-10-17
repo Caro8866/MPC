@@ -275,6 +275,18 @@ function renderFlashcard() {
 }
 
 // Keydown event listener for flipping and navigation
+// also need to be able to click on flashcard to flip
+flashcardText.addEventListener('click', () => {
+  const front = flashcardText.querySelector('.front');
+  const back = flashcardText.querySelector('.back');
+  if (front.style.display === 'none') {
+    front.style.display = '';
+    back.style.display = 'none';
+  } else {
+    front.style.display = 'none';
+    back.style.display = '';
+  }
+});
 document.addEventListener('keydown', (e) => {
   if (flashcardsView.style.display === 'none') return;
 
